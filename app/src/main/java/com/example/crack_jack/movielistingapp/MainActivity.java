@@ -9,5 +9,33 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+//      Initialize RecyclerView
+
+
+
+
+//      Get and Load Data
+
+
+
+
+
+
+//      Load JSON from Raw JSON file
+
+
+
+
+    }
+
+    private String loadJSONFromAsset() {
+
+        String movieJSON = "";
+
+        //  Work on it
+
+        return movieJSON;
     }
 }
