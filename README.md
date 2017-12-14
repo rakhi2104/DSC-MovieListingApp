@@ -2,6 +2,8 @@
 
 You can start working on this app by cloning it onto your local system.
 
+For template code of MovieListingApp, clone the older commit.
+
 ### What we will be creating 
 
 Using the TMDB API ( https://developers.themoviedb.org/3/getting-started/introduction )
